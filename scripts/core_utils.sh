@@ -4,13 +4,14 @@
 brew tap heroku/brew
 
 coreUtils=(
-    tig
     tree
     bat
     node
+    deno
     watch
     ack
     autojump
+    tokei
 )
 
 for i in "${coreUtils[@]}"; do 

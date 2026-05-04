@@ -6,12 +6,8 @@ brew tap caskroom/cask
 brew tap caskroom/versions
 
 applications=(
-  google-chrome
   iterm2
-  vlc
   visual-studio-code
-  slack
-  intellij-idea-ce
   zoomus
 )
 
